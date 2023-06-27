@@ -1,0 +1,13 @@
+{
+  "port": 8080,
+  "endpoints": [
+    {
+      "path": "/api/v1/ping",
+      "status": 204
+    },
+    {
+      "path": "/api/v1/echo",
+      "status": 201
+    }
+  ]
+}
